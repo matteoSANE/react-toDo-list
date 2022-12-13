@@ -3,7 +3,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 🚀 Quick start
 
-Run the development server:
+First of all run
+
+```bash
+npm install
+```
+
+Then run the development server:
 
 ```bash
 npm start
